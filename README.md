@@ -3,7 +3,7 @@
 This repository contains my Data Science learning journey, including Python practice, data analysis, data visualization, machine learning concepts, and related practice notebooks and projects.
 
 
-<img src="https://cdn.dribbble.com/userupload/32122583/file/original-400827bdf243931c8ffd26a268a837ce.gif" width="60%" height="10%">
+<img src="https://i.pinimg.com/originals/31/53/2d/31532d7d378053de3b8bf23c6e7bfae3.gif" width="60%" height="10%">
 
 
 ## Topics Covered
