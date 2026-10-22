@@ -2,9 +2,7 @@
 
 This repository contains my Data Science learning journey, including Python practice, data analysis, data visualization, machine learning concepts, and related practice notebooks and projects.
 
-
-<img src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif" width="55%" height="8%">
-
+<img src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif" width="60%" height="10%">
 
 ## Topics Covered
 
@@ -27,4 +25,5 @@ This repository contains my Data Science learning journey, including Python prac
 - Seaborn
 - Scikit-learn
 
-
+---
+*🚀 Exploring data, discovering patterns.*
