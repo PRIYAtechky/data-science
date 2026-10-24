@@ -13,7 +13,10 @@ This repository contains my Data Science learning journey, including Python prac
 - Data Cleaning
 - Data Visualization
 - Feature Engineering
+- Model Evaluation
 - Machine Learning
+
+
 
 ## Libraries
 
